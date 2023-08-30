@@ -9,7 +9,7 @@ A fun Python game where you guess a number within a chosen range.
   Python, Tkinter, ttkbootstrap
   
 ## Usage:
-  Run `python number_guessing_game.py`, follow prompts.
+  Run `python guess.py`, follow prompts.
 
 
 - Enjoy the game!
